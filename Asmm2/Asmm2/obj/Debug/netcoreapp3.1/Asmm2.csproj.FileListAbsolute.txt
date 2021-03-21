@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.exe
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.deps.json
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.runtimeconfig.json
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.dll
+C:\Users\asus\source\repos\Asmm2\Asmm2\bin\Debug\netcoreapp3.1\Asmm2.pdb
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.AssemblyInfo.cs
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.dll
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.pdb
+C:\Users\asus\source\repos\Asmm2\Asmm2\obj\Debug\netcoreapp3.1\Asmm2.genruntimeconfig.cache
